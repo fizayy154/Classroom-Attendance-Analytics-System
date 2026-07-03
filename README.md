@@ -30,14 +30,10 @@ Output
 
 The program displays:
 
- Class Name
- Subject Name
- Total Students
- Present Students
- Absent Students
- Attendance Percentage
- Attendance Status
-
-Author
-
-Student Assignment – Python Programming
+ * Class Name
+ * Subject Name
+ * Total Students
+ * Present Students
+ * Absent Students
+ * Attendance Percentage
+ * Attendance Status
